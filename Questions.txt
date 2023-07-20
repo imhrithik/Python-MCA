@@ -1,0 +1,60 @@
+1. Implement Python Script to generate first N natural numbers.
+
+2. By considering the terms in the Fibonacci sequence whose values do not exceed 1000, find the sum of the even-valued terms.
+
+3. Write a program which makes use of function to display all such numbers which are divisible by 7 but are not a multiple of 5, between 1000 and 2000.
+
+4. Write a function cumulative_product to compute cumulative product of a list of numbers.
+
+5. Write a function reverse to reverse a list. Without using the reverse function.
+
+6. Define a function which generates Fibonacci series up to n numbers using RECURSION.
+
+7. With a given tuple (1, 2, 3, 4, 5, 6, 7, 8, 9, 10), write a program to print the first half values in one line and the last half values in one line.
+
+8. Write a program to count the numbers of characters in the string and store them in a dictionary data structure.
+
+9. Remove spaces from a string using recursion.
+
+10.Write a program to compute the number of characters, words and lines in a file.
+
+11.Write a Python class which has two methods get_String and print_String. get_String accept a string from the user and print_String print the string in upper case.
+
+12.Write a Python class named Circle constructed by a radius and two methods which will compute the area and the perimeter of a circle.
+
+13.Write a Python class to reverse a string word by word :
+Input string : 'hello Python'
+Expected Output : 'Python hello'
+
+14. Write python functions to produce following output patterns:
+      1
+    2 1 2
+  3 2 1 2 3
+4 3 2 1 2 3 4
+      
+      *
+    * * *
+  * * * * *
+    * * *
+      *
+
+15. Write a function that finds the sum of first n terms of following series:
+1 – x^2 / 2! + x^4 / 4! – x^6 / 6! + …… x^n / n! 
+
+16. Write a program to compare two files and display total number of lines in a file.
+
+17.Every time a vote is cast the name of the candidate is appended to the data structure. Print the names of candidates who received maximum vote in lexicographical order and if there is a tie print lexicographically smaller name.
+
+18.Write a program to determine whether a given string has balanced parenthesis or not.
+
+19.Implement a python script to check the element is in the list or not by using Linear search & Binary search.
+
+20.Implement a python script to arrange the elements in sorted order using Bubble, Selection, Insertion and Merge sorting techniques.
+
+21.Create a menu driven program to perform various matrices operations.
+
+22.Draw different graphs and plots in Python using Matplotlib Library.
+
+23.Write a python code for simple GUI calculator using Tk.
+
+24.Write a python program to perform various database operations (create, insert, delete, update).
